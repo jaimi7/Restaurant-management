@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "jaimi patel",
+      "email": "jaimi1@gmail.com",
+      "password": "jaimi@123",
+      "id": 1
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Upyog",
+      "address": "Valsad",
+      "contact": 9087654321
+    }
+  ]
+}
